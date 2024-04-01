@@ -18,10 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/kpham118215/" target="blank"><img align="center"
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="Cherry Pham's LinkedIn: https://www.linkedin.com/in/kpham118215/"/></a>
   <a href="mailto:khuee.phamj@gmail.com" target="blank"><img align="center"
-      src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Cherry Pham's email: khuee.phamj@gmail.com" /></a>
 </p>
 
