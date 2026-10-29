@@ -20,7 +20,7 @@
 - 🏃🏻‍♀️ **side quests:** even when im not nerding out, i am nerding out, i have a spreadsheet for everything, including my very diverse and elaborately organized music collection -- i think i'm pushing 100 playlists due to my belief that there is one for every mood and occasion
 ---
 
-## things i've made
+## personal projects!
 
 - **Obsidian vault, but make it a database**
 - **Itinerary Maker**
